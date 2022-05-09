@@ -1,0 +1,25 @@
+html{
+    padding:20px;
+    color: burlywood;
+}
+body{
+    background-image: url("https://restauranteblanqueries.com/wp-content/uploads/2016/10/fondo-home1.jpg");
+    background-repeat: no-repeat; 
+    font-family: "Roboto Flex", sans-serif; 
+}
+#menu-logo{
+    width: 300px; 
+}
+#content{
+    text-align: center;
+    margin-top: 40px;
+}
+ a, a:visited{
+    color:burlywood;
+    font-size: 30px;
+}
+#menu{
+    margin-top: 100px; 
+    font-size: 30px;
+}
+
